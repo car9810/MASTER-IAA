@@ -46,4 +46,3 @@ Su finalidad es mostrar mi evolución en programación, resolución de problemas
 
 ---
 
-**Nota:** Este repositorio está dedicado a documentar mi trabajo práctico y aprendizaje personal. No constituye documentación oficial del Instituto Europeo de Posgrado.
