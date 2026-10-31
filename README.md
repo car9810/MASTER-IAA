@@ -8,7 +8,7 @@ El objetivo es documentar mi aprendizaje y mostrar la aplicación práctica de d
 ## Tecnologías y herramientas
 
 - **Lenguaje principal:** Python
-- **Entorno de trabajo:** Jupyter Notebooks y archivos Python
+- **Entorno de trabajo:** Jupyter Notebooks, VSC y archivos Python
 - **Control de versiones:** Git y GitHub
 - **Bibliotecas y frameworks:** Pendiente de completar
 
